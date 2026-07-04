@@ -33,4 +33,4 @@ The software is structured using a Finite State Machine (FSM) controlled by the 
 
 Below is the component layout and wiring designed on the Tinkercad platform:
 
-![Biometric Alarm Circuit](Spectacular Jaban-Robo-3.png)
+![Biometric Alarm Circuit](Interactive_Alarm.png)
