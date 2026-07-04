@@ -33,4 +33,4 @@ O software foi estruturado utilizando uma Maquina de Estados Finitos (FSM) contr
 
 Abaixo esta a disposicao dos componentes e cabeamento projetados na plataforma Tinkercad:
 
-![Circuito Despertador Biometrico](Spectacular Jaban-Robo-3.png)
+![Circuito Despertador Biometrico](Interactive_Alarm.png)
